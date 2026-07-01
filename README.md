@@ -33,7 +33,7 @@ Proje geliştirme ve yönetim süreçlerinin takibi; mali, idari ve teknik rapor
 
 * **Marmara Üniversitesi- İnovasyon ve Teknoloji Transfer Uygulama ve Araştırma Merkezi (MİTTO)**
   
-  **Proje Geliştirme Uzmanı** (Haziran 2020 – Temmuz 2021)
+ **Proje Geliştirme Uzmanı** (Haziran 2020 – Temmuz 2021)
   
 TÜBİTAK 1513 Teknoloji Transfer Ofisleri Destekleme Programı kapsamında görev almıştır. Buna ek olarak, TÜBİTAK 1601, TÜBİTAK BİGG 1512 ve İstanbul Kalkınma Ajansı (İSTKA) destekli projelerde görev alarak tecrübe edinmiştir.
 Görev aldığı süre boyunca, akademi, sanayi ve çatı kuruluşlardaki paydaşlarla çeşitli iş birlikleri geliştirerek 12 adet uluslararası proje, 35 adet ulusal destek programına katkı sağlamıştır.
