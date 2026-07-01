@@ -8,7 +8,7 @@ Ece Kılıç Güngör - Portfolyo
 * Platform Management
 * Polimer Mühendisi
 * Kimyager
-* Doktora Öğrencisi*
+* Doktora Öğrencisi
 
 ---
 
@@ -19,10 +19,12 @@ Kimya lisans ve Polimer Malzeme Mühendisliği disiplinlerinde doktora düzeyind
 * **Sabancı Üniversitesi- Nanoteknoloji Araştırma ve Uygulama Merkezi (SUNUM)**
 
 **Proje ve Platform Yönetim Sorumlusu**  (Ocak 2024 – Devam ediyor)
+
 TÜBİTAK 1004- Mükemmeliyet Merkezi Destek Programı kapsamında, SUNUM’da 2023 yılından itibaren yürütülmekte olan “Sürdürülebilir Döngüsel Ekonomi İçin Katma Değerli İleri Nanoteknolojik Malzemeler ve Sistemler (LignoNANO)” isimli platformun idari yönetim sorumlusu olarak platformda bulunan tüm paydaşların idari ve teknik yönetiminden sorumlu olarak görev yapmakta ve TÜBİTAK tarafından talep edilen raporlama çalışmalarını koordine ederek süreç takibi görevini yapmaktadır.
 Platform kapsamında 11 proje, 5 üniversite, 20 özel sektör kuruluşu, 4 kamu araştırma merkezi, 29 kurum/kuruluş ve 188 özel/tüzel kişi bulunmaktadır.
 
 **Araştırma Hizmetleri ve İş Geliştirme Sorumlusu** (Temmuz 2021 - Ocak 2024)
+
 Üniversitelerin ve sanayi kuruluşlarının, Yaşam Bilimleri, Nanomateryaller, Gıda, Tarım, Su, Çevre, Enerji, Savunma, Havacılık ve Uzay Uygulamaları alanlarında, Ar-Ge ve kalite çalışmalarında ihtiyaç duyduğu araştırma ve altyapı hizmetlerinin koordine edilmesi,
 SUNUM laboratuvarlarında görev yapmakta olan 15 Teknik Uzmanın araştırma hizmetleri süreçlerinde görev yönetimi ve paydaşlarla koordinasyonun sağlanması,
 Sanayi Bakanlığı, TÜBİTAK ve SUNUM Yönetim Kurulu için dönemsel raporlama çalışmalarının gerçekleştirilmesi ve ilgili süreçlerin geliştirilmesi,
@@ -31,6 +33,7 @@ Proje geliştirme ve yönetim süreçlerinin takibi; mali, idari ve teknik rapor
 
 * **Marmara Üniversitesi- İnovasyon ve Teknoloji Transfer Uygulama ve Araştırma Merkezi (MİTTO)**
 **Proje Geliştirme Uzmanı** (Haziran 2020 – Temmuz 2021)
+  
 TÜBİTAK 1513 Teknoloji Transfer Ofisleri Destekleme Programı kapsamında görev almıştır. Buna ek olarak, TÜBİTAK 1601, TÜBİTAK BİGG 1512 ve İstanbul Kalkınma Ajansı (İSTKA) destekli projelerde görev alarak tecrübe edinmiştir.
 Görev aldığı süre boyunca, akademi, sanayi ve çatı kuruluşlardaki paydaşlarla çeşitli iş birlikleri geliştirerek 12 adet uluslararası proje, 35 adet ulusal destek programına katkı sağlamıştır.
 Akademi ve sanayi paydaşlarının ulusal/uluslararası fon destekleri hakkında bilgilendirilmesi noktasında etkinliklerin organize edilmesi,
@@ -40,6 +43,7 @@ Araştırma gruplarına özel proje yazım atölyeleri ve proje tipi ve kurgusun
 
 * **Casper Bilgisayar Sistemleri A.Ş.**
 **Ar-Ge Merkezi ve Proje Geliştirme Uzmanı** (Temmuz 2019 – Haziran 2020)
+  
 Ar-Ge Merkezi bünyesinde yapılan araştırma- geliştirme projelerinin ve TÜBİTAK- TEYDEB proje süreçlerinin takibi, dönem raporlarının hazırlanması ve hakem sunumları,
 Ar-Ge Merkezi’nin faaliyetlerinin düzenlenmesi, portal üzerinden takibinin yapılması ve raporlanması,
 Üniversite-Sanayi İş birliği çalışmalarıyla proje geliştirilmesi amacıyla çeşitli üniversiteler ile görüşmelerin ve iş birliklerinin sağlanması,
@@ -51,6 +55,7 @@ ISO 9001:2015 ve ISO 14001:2015
 
 * **Vega Abrasiv A.Ş.**
 **Ar-Ge Sorumlusu / Proje Yürütücüsü** (Ekim 2017 – Temmuz 2019)
+  
 Mermer ve seramik abrasivlerinin (aşındırıcı) yeni nesil polimer teknolojileri ile geliştirilmesi çalışmalarında 2 adet TÜBİTAK – TEYDEB 1501 projesinde Proje Yürütücüsü olarak görev almıştır.
 TEYDEB projelerinin dokümantasyon çalışmaları, dönem raporları ve sunumlarının gerçekleştirilmesi, saha çalışmaları, laboratuar çalışmaları gibi konuların tümünde görev almış ve genel koordinasyonu sağlamıştır.
 Üniversite- Sanayi iş birliklerinin geliştirilmesi ve teknik destek süreçlerinin takibi,
@@ -59,11 +64,13 @@ Yurtiçi ve yurtdışındaki firmalarda ya da üniversite laboratuvarlarında ge
 
 * **Bilim İlaç A.Ş.**
 **Kalite Kontrol Analisti** (Kasım 2015 – Ekim 2017)
+  
 Bilim İlaç Kalite Kontrol Müdürlüğü bünyesinde, bitmiş ürün spesifikasyonlarına uygun analiz çalışmaları yapmıştır. HPLC, UPLC, GC, FT-IR, Karl Fischer Nem Tayini, dissolüsyon, UV ve diğer ekipman metotlarını kullanarak kalite kontrol analiz çalışmaları yapmıştır. Bu süreçte raporlama, dökümantasyon, planlama ve zaman yönetimi konularında beceri kazanmıştır.
 SAP QM Modülü ile çalışmıştır.
 
 * **Yalova Atatürk Bilim ve Sanat Merkezi (BİLSEM)**
 **Kimya Projeleri Rehber Öğretmeni** (Eylül 2013 – Kasım 2015)
+  
 Üstün zekalı ve yetenekli öğrencilerin bireysel yeteneklerinin farkında olmalarını ve kapasitelerini geliştirirken üst düzeyde kullanmalarının sağlanması amaçlanan kurumda kimya disiplininde çeşitli araştırma-geliştirme çalışmalarına rehberlik yapmıştır.
 Ar-Ge çalışmalarında rehberlik ettiği projelerin bazıları şu şekildedir: Aktif Karbon Eldesiyle Boyarmadde Adsorpsiyonu, Atık Materyallerden Boyarmadde Sentezi, Biyoplastik Sentezi, Plastiklerin Geri Dönüşümü Projesi gibi çalışmalar yapmıştır.
 
