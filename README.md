@@ -32,8 +32,8 @@ Sanayi Bakanlığı, TÜBİTAK ve SUNUM Yönetim Kurulu için dönemsel raporlam
 Proje geliştirme ve yönetim süreçlerinin takibi; mali, idari ve teknik raporların hazırlanması çalışmalarında görev almıştır.
 
 * **Marmara Üniversitesi- İnovasyon ve Teknoloji Transfer Uygulama ve Araştırma Merkezi (MİTTO)**
-* 
-**Proje Geliştirme Uzmanı** (Haziran 2020 – Temmuz 2021)
+  
+  **Proje Geliştirme Uzmanı** (Haziran 2020 – Temmuz 2021)
   
 TÜBİTAK 1513 Teknoloji Transfer Ofisleri Destekleme Programı kapsamında görev almıştır. Buna ek olarak, TÜBİTAK 1601, TÜBİTAK BİGG 1512 ve İstanbul Kalkınma Ajansı (İSTKA) destekli projelerde görev alarak tecrübe edinmiştir.
 Görev aldığı süre boyunca, akademi, sanayi ve çatı kuruluşlardaki paydaşlarla çeşitli iş birlikleri geliştirerek 12 adet uluslararası proje, 35 adet ulusal destek programına katkı sağlamıştır.
@@ -43,8 +43,8 @@ Proje fikirlerini uygun fon desteklerine yönlendirme, projelerin disiplin ve fa
 Araştırma gruplarına özel proje yazım atölyeleri ve proje tipi ve kurgusuna göre proje ekibine dış paydaşların (Ar-Ge Merkezi, STK, kurum, firma vb.) dahil olmasını sağlama çalışmalarında görev almıştır.
 
 * **Casper Bilgisayar Sistemleri A.Ş.**
-* 
-**Ar-Ge Merkezi ve Proje Geliştirme Uzmanı** (Temmuz 2019 – Haziran 2020)
+  
+ **Ar-Ge Merkezi ve Proje Geliştirme Uzmanı** (Temmuz 2019 – Haziran 2020)
   
 Ar-Ge Merkezi bünyesinde yapılan araştırma- geliştirme projelerinin ve TÜBİTAK- TEYDEB proje süreçlerinin takibi, dönem raporlarının hazırlanması ve hakem sunumları,
 Ar-Ge Merkezi’nin faaliyetlerinin düzenlenmesi, portal üzerinden takibinin yapılması ve raporlanması,
@@ -56,8 +56,8 @@ Test cihazlarının akreditasyon süreçlerinin takibi,
 ISO 9001:2015 ve ISO 14001:2015
 
 * **Vega Abrasiv A.Ş.**
-* 
-**Ar-Ge Sorumlusu / Proje Yürütücüsü** (Ekim 2017 – Temmuz 2019)
+  
+ **Ar-Ge Sorumlusu / Proje Yürütücüsü** (Ekim 2017 – Temmuz 2019)
   
 Mermer ve seramik abrasivlerinin (aşındırıcı) yeni nesil polimer teknolojileri ile geliştirilmesi çalışmalarında 2 adet TÜBİTAK – TEYDEB 1501 projesinde Proje Yürütücüsü olarak görev almıştır.
 TEYDEB projelerinin dokümantasyon çalışmaları, dönem raporları ve sunumlarının gerçekleştirilmesi, saha çalışmaları, laboratuar çalışmaları gibi konuların tümünde görev almış ve genel koordinasyonu sağlamıştır.
@@ -66,15 +66,15 @@ Ar-Ge ve kalite kontrol laboratuarlarının kurulumu, cihaz ve hammadde satın a
 Yurtiçi ve yurtdışındaki firmalarda ya da üniversite laboratuvarlarında gerçekleştirilen test ve analizlerin takibi ve araştırma çalışmaları ile yeni ürün geliştirilmesi çalışmalarında görev almıştır.
 
 * **Bilim İlaç A.Ş.**
-* 
-**Kalite Kontrol Analisti** (Kasım 2015 – Ekim 2017)
+
+ **Kalite Kontrol Analisti** (Kasım 2015 – Ekim 2017)
   
 Bilim İlaç Kalite Kontrol Müdürlüğü bünyesinde, bitmiş ürün spesifikasyonlarına uygun analiz çalışmaları yapmıştır. HPLC, UPLC, GC, FT-IR, Karl Fischer Nem Tayini, dissolüsyon, UV ve diğer ekipman metotlarını kullanarak kalite kontrol analiz çalışmaları yapmıştır. Bu süreçte raporlama, dökümantasyon, planlama ve zaman yönetimi konularında beceri kazanmıştır.
 SAP QM Modülü ile çalışmıştır.
 
 * **Yalova Atatürk Bilim ve Sanat Merkezi (BİLSEM)**
-* 
-**Kimya Projeleri Rehber Öğretmeni** (Eylül 2013 – Kasım 2015)
+ 
+ **Kimya Projeleri Rehber Öğretmeni** (Eylül 2013 – Kasım 2015)
   
 Üstün zekalı ve yetenekli öğrencilerin bireysel yeteneklerinin farkında olmalarını ve kapasitelerini geliştirirken üst düzeyde kullanmalarının sağlanması amaçlanan kurumda kimya disiplininde çeşitli araştırma-geliştirme çalışmalarına rehberlik yapmıştır.
 Ar-Ge çalışmalarında rehberlik ettiği projelerin bazıları şu şekildedir: Aktif Karbon Eldesiyle Boyarmadde Adsorpsiyonu, Atık Materyallerden Boyarmadde Sentezi, Biyoplastik Sentezi, Plastiklerin Geri Dönüşümü Projesi gibi çalışmalar yapmıştır.
