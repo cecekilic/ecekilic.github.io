@@ -12,7 +12,7 @@ Ece Kılıç Güngör - Portfolyo
 
 ---
 
-## 📄 Hakkımda
+## 📄 Hakkımda 
 Kimya lisans ve Polimer Malzeme Mühendisliği disiplinlerinde doktora düzeyinde akademik altyapıya sahip , 10 yılı aşkın Ar-Ge, proje yönetimi ve teknoloji transferi deneyimi olan profesyonel. TÜBİTAK 1004 Mükemmeliyet Merkezi destekli, çok paydaşlı makro düzeydeki Ar-Ge platformlarının finansal, idari ve teknik yönetiminde, üniversite-sanayi iş birliklerinin geliştirilmesinde ve fon süreçlerinin uçtan uca koordine edilmesinde uzmandır.
 ## 💼 Deneyimleriniz
 
