@@ -1,7 +1,7 @@
 # ecekilic.github.io
 Ece Kılıç Güngör - Portfolyo
 # Ece Kılıç Güngör
-*Unvanınız (Platform Yönetim Sorumlusu, Polimer Mühendisi, Kimyager, Doktora Öğrencisi)*
+* (Platform Yönetim Sorumlusu, Polimer Mühendisi, Kimyager, Doktora Öğrencisi)*
 
 ---
 
